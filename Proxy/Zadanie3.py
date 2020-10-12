@@ -1,0 +1,1 @@
+#Dodano metodę remove w w odpowiednich klasach w katologu Proxy
